@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">FISICA III</string>
+    <string name="hora">HORA: </string>
+    <string name="temperatura">TEMPERATURA: </string>
+    <string name="luminosidad">LUMINOSIDAD: </string>
+    <string name="sensores">INFORMACION DE SENSORES</string>
+    <string name="venti">VENTILADOR</string>
+    <string name="foco">FOCO</string>
+    <string name="auto">AUTOMATICO</string>
+
+</resources>
